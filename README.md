@@ -1,10 +1,11 @@
 # SiagAI: Empowering Disaster-Prone Communities Through AI-Driven Literacy and Citizen Responses for Localized Prepardness
 
 ## Team Lirastra
-- Name 1
-- Name 2
-- Name 3
-- Name 4
+- Kireina Nazwa Rayhani
+- Arini Nur Azizah
+- Anindya Diany Putri
+- Luthfia Fairuz Mulyana
+- Azkiya Rusyda Zahra
 
 ## University
 Institute Technology of Sepuluh Nopember
