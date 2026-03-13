@@ -1,4 +1,4 @@
-# [Project Title]
+# SiagAI: Empowering Disaster-Prone Communities Through AI-Driven Literacy and Citizen Responses for Localized Prepardness
 
 ## Team Members
 - Name 1
