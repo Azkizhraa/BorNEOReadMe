@@ -29,6 +29,6 @@ Through demographic analysis and persona creation, the team identified key chall
 The result is a **Figma-based prototype** that demonstrates the user experience and interaction flow of the platform. Core features include a personalized disaster dashboard, a misinformation-checking chatbot, and a community reporting feed. While the technical architecture is conceptually described, the primary deliverable in this track is the **design, usability, and problem–solution framework** of the system.
 
 ## Deliverables
-- **Figma Prototype** → Figma = https://www.figma.com/proto/saVI07Tk1EWQeQJW3n7YpL/BorNEO?node-id=120-1751&t=MFmodWVk9cUTWta9-1&scaling=scale-down&content-scaling=fixed&page-id=109%3A26&starting-point-node-id=120%3A1751&show-proto-sidebar=1
-- **Report** → [Link here]  
+- **Figma Prototype** → https://www.figma.com/proto/saVI07Tk1EWQeQJW3n7YpL/BorNEO?node-id=120-1751&t=MFmodWVk9cUTWta9-1&scaling=scale-down&content-scaling=fixed&page-id=109%3A26&starting-point-node-id=120%3A1751&show-proto-sidebar=1
+- **Report** → https://drive.google.com/file/d/1KMSx_J0NspPfTVWYU1i5qz7UQWKziqi9/view?usp=sharing
 - **Video Demo** → https://youtu.be/bdl7pC2Z8wE  
